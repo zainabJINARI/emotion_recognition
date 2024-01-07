@@ -30,7 +30,6 @@ This demo showcases the interface for using the Emotion Recognition application 
 4. Real-Time Video Emotion Recognition
 
 
-https://github.com/zainabJINARI/emotion_recognition/assets/111095997/60ead5a6-d7cd-470c-b0d1-ff892836f9a1
 
 
 The real-time video demo demonstrates the functionality of the Emotion Recognition application with live video streams. Users can observe the application detecting and tracking emotions in real-time as individuals express different emotions.
